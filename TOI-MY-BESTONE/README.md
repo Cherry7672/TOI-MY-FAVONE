@@ -8,7 +8,7 @@ A Personal Non-AI Assistant for Linux, MacOS and Windows
 
 Junnnu is a simple personal assistant for Linux, MacOS and Windows which works on the command line. He can talk to you if you enable his voice. He can tell you the weather, he can find restaurants and other places near you. He can do some great stuff for you.
 
-## 🚀 20 Different Tasks That Jarvis Can Do For You:
+## 🚀 20 Different Tasks That Junnu Can Do For You:
 
 1. **Entertainment & Suggestions**
    - Suggest activities if you're bored (`activity`, `bored`)
@@ -148,9 +148,9 @@ from plugin import plugin
 
 
 @plugin("helloworld")
-def helloworld(jarvis, s):
+def helloworld(junnu, s):
     """Repeats what you type"""
-    jarvis.say(s)
+    junnu.say(s)
 ```
 
 Check it out!
@@ -199,9 +199,9 @@ Run with docker (docker needs to be installed and running):
 
 ## Authors
 
- **sukeesh**
+ **cherry**
 
-See also the list of [contributors](https://github.com/sukeesh/Jarvis/graphs/contributors) who have participated in this project.
+See also the list of [contributors](https://github.com/Cherry7672/TOI-MY-FAVONE) who have participated in this project.
 
 ## License
 
