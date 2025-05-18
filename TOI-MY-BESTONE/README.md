@@ -1,12 +1,10 @@
 # Junnu
 
-[![Build Status](https://travis-ci.org/sukeesh/Jarvis.svg?branch=master)](https://travis-ci.org/sukeesh/Jarvis) [![Join the chat at https://gitter.im/Sukeesh_Jarvis/Lobby](https://badges.gitter.im/Sukeesh_Jarvis/Lobby.svg)](https://gitter.im/Sukeesh_Jarvis/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 A Personal Non-AI Assistant for Linux, MacOS and Windows
 
-![Junnu](http://i.imgur.com/xZ8x9ES.jpg)
+![](http://i.imgur.com/xZ8x9ES.jpg)
 
-Junnnu is a simple personal assistant for Linux, MacOS and Windows which works on the command line. He can talk to you if you enable his voice. He can tell you the weather, he can find restaurants and other places near you. He can do some great stuff for you.
+Junnu is a simple personal assistant for Linux, MacOS and Windows which works on the command line. He can talk to you if you enable his voice. He can tell you the weather, he can find restaurants and other places near you. He can do some great stuff for you.
 
 ## 🚀 20 Different Tasks That Junnu Can Do For You:
 
