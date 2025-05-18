@@ -1,12 +1,12 @@
-# Jarvis
+# Junnu
 
 [![Build Status](https://travis-ci.org/sukeesh/Jarvis.svg?branch=master)](https://travis-ci.org/sukeesh/Jarvis) [![Join the chat at https://gitter.im/Sukeesh_Jarvis/Lobby](https://badges.gitter.im/Sukeesh_Jarvis/Lobby.svg)](https://gitter.im/Sukeesh_Jarvis/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A Personal Non-AI Assistant for Linux, MacOS and Windows
 
-![Jarvis](http://i.imgur.com/xZ8x9ES.jpg)
+![Junnu](http://i.imgur.com/xZ8x9ES.jpg)
 
-Jarvis is a simple personal assistant for Linux, MacOS and Windows which works on the command line. He can talk to you if you enable his voice. He can tell you the weather, he can find restaurants and other places near you. He can do some great stuff for you.
+Junnnu is a simple personal assistant for Linux, MacOS and Windows which works on the command line. He can talk to you if you enable his voice. He can tell you the weather, he can find restaurants and other places near you. He can do some great stuff for you.
 
 ## 🚀 20 Different Tasks That Jarvis Can Do For You:
 
@@ -72,7 +72,7 @@ Jarvis is a simple personal assistant for Linux, MacOS and Windows which works o
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/sukeesh/Jarvis.git
+   git clone https://github.com/sukeesh/Junnu.git
    ```
 
 2. **Run the installer**
@@ -86,23 +86,23 @@ Jarvis is a simple personal assistant for Linux, MacOS and Windows which works o
 
 ### Running Jarvis
 
-- Run Jarvis from anywhere:
+- Run Junnu from anywhere:
   
    ```bash
-   jarvis
+   junnu
    ```
 
   Or from within the project folder:
   
    ```bash
-   ./jarvis
+   ./junnu
    ```
 
-You can start by typing `help` within the Jarvis command line to check what Jarvis can do for you.
+You can start by typing `help` within the Junnu command line to check what Junnu can do for you.
 
 ## ❓Frequently encountered issues
 **Question**: 
-When I run Jarvis, it shows an error relating to module not found<br>
+When I run Junnu, it shows an error relating to module not found<br>
 
 **Platform**: 
 Windows<br>
@@ -135,10 +135,6 @@ Error: `ImportError: DLL load failed while importing win32api: The specified mod
 
 **If you find other issues and/or have found solutions to them on any platform, please consider adding to this list!**
 
-## 💻 Youtube Video Showing Jarvis
-
-[Click here](https://www.youtube.com/watch?v=PR-nxqmG3V8)
-
 ## 🤝 Contributing
 
 Check out our [CONTRIBUTING.md](CONTRIBUTING.md) to learn how you can contribute!
@@ -159,14 +155,14 @@ def helloworld(jarvis, s):
 
 Check it out!
 ```
-./jarvis
-Jarvis' sound is by default disabled.
+./junnu
+Junnu' sound is by default disabled.
 In order to let Jarvis talk out loud type: enable sound
 Type 'help' for a list of available actions.
 
 ~> Hi, what can I do for you?
-helloworld Jarvis is cool!
-jarvis is cool
+helloworld junnu is cool!
+junnu is cool
 ```
 
 ### Plugins
