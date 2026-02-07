@@ -1,12 +1,12 @@
-# Junnu
+# SHIFRA
 
 A Personal Non-AI Assistant for Linux, MacOS and Windows
 
 ![](http://i.imgur.com/xZ8x9ES.jpg)
 
-Junnu is a simple personal assistant for Linux, MacOS and Windows which works on the command line. He can talk to you if you enable his voice. He can tell you the weather, he can find restaurants and other places near you. He can do some great stuff for you.
+Shifra is a simple personal assistant for Linux, MacOS and Windows which works on the command line. He can talk to you if you enable his voice. He can tell you the weather, he can find restaurants and other places near you. He can do some great stuff for you.
 
-## 🚀 20 Different Tasks That Junnu Can Do For You:
+## 🚀 20 Different Tasks That SHIFRA Can Do For You:
 
 1. **Entertainment & Suggestions**
    - Suggest activities if you're bored (`activity`, `bored`)
@@ -70,7 +70,7 @@ Junnu is a simple personal assistant for Linux, MacOS and Windows which works on
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/sukeesh/Junnu.git
+   git clone https://github.com/Cherry7672/Shifra.git
    ```
 
 2. **Run the installer**
@@ -84,23 +84,23 @@ Junnu is a simple personal assistant for Linux, MacOS and Windows which works on
 
 ### Running Jarvis
 
-- Run Junnu from anywhere:
+- Run Shifra from anywhere:
   
    ```bash
-   junnu
+   Shifra
    ```
 
   Or from within the project folder:
   
    ```bash
-   ./junnu
+   ./Shifra
    ```
 
 You can start by typing `help` within the Junnu command line to check what Junnu can do for you.
 
 ## ❓Frequently encountered issues
 **Question**: 
-When I run Junnu, it shows an error relating to module not found<br>
+When I run Shifra, it shows an error relating to module not found<br>
 
 **Platform**: 
 Windows<br>
@@ -146,21 +146,21 @@ from plugin import plugin
 
 
 @plugin("helloworld")
-def helloworld(junnu, s):
+def helloworld(Shifra, s):
     """Repeats what you type"""
-    junnu.say(s)
+    Shifra.say(s)
 ```
 
 Check it out!
 ```
-./junnu
-Junnu' sound is by default disabled.
+./Shifra
+Shifra' sound is by default disabled.
 In order to let Jarvis talk out loud type: enable sound
 Type 'help' for a list of available actions.
 
 ~> Hi, what can I do for you?
-helloworld junnu is cool!
-junnu is cool
+helloworld Shifra is cool!
+Shifra is cool
 ```
 
 ### Plugins
